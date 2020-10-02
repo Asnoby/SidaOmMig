@@ -1,0 +1,150 @@
+header {
+  background-color: black;
+  height: 15ch;
+}
+#Rubrik {
+  font-size: 5ch;
+  text-align: center;
+}
+
+#Rubrik a {
+  color: white;
+  text-decoration-line: none;
+}
+
+#TopL a {
+  color: white;
+  text-decoration-line: none;
+  font-size: 3.5ch;
+  list-style: none;
+}
+
+  #Länkar li a{
+  color: black;
+  text-decoration-line: none;
+}
+
+#Länkar ul {
+  display: flex;
+  font-size: 3.5vh;
+  list-style: none;
+  flex-direction: column;
+  align-items: center;
+  border-style: solid;
+  background-color:gray;
+  margin: 3vh;
+}
+
+#Länkar li{
+  padding:15px;
+}
+
+#Länkar li img {
+  width: 15vh;
+}
+
+
+#TopL {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+ p {
+  min-width: 25vw;
+  max-width: 40vw;
+  line-height: 1.5;
+}
+
+#Home {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  justify-content:space-between;
+  list-style: none;
+}
+
+#Home img {
+  max-width: 40vw;
+  min-width: 25vw;
+}
+
+h1 {
+  margin: 40px;
+  font-size: 40px;
+}
+
+#HomePage {
+  margin: 3vh;
+  background-color: gray;
+  border-style: solid ;
+}
+
+
+#mig ul li{
+  list-style: none;
+}
+
+#mig ul{
+  display: flex;
+  justify-content: start;
+  justify-content: space-between;
+  align-items: center;
+  padding:50px;
+}
+
+#mig {
+  margin: 3vh;
+  background-color: gray;
+  border-style: solid;
+}
+
+#mig img {
+  max-width: 40vw;
+  min-width: 25vw;
+}
+
+#Intressen {
+  margin: 3vh;
+  background-color: gray;
+  border-style: solid;
+}
+
+#Intressen ul{
+  display: flex;
+  justify-content: start;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+}
+
+#Intressen ul li{
+  list-style: none;
+}
+
+#Intressen img  {
+  max-width: 40vw;
+  min-width: 25vw;
+}
+
+#Spel {
+  margin: 3vh;
+  background-color: gray;
+  border-style: solid;
+}
+
+#Spel ul {
+  display: flex;
+  justify-content: start;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+}
+
+#Spel ul li{
+  list-style: none;
+}
+
+#Spel img {
+  max-width: 40vw;
+  min-width: 25vw;
+}
